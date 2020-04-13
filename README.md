@@ -1,4 +1,4 @@
-# Video Recognition
+# Violence Recognition
 ** PROJECT STILL IN PROCESS **
 
 ## Description
