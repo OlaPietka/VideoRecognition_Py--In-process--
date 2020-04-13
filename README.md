@@ -7,9 +7,15 @@ Labels:
 * Violence
 * NotViolence
 
-
 <p align="center">
   <img width="300" height="250" src="https://i.imgur.com/W7JoAjA.png">
   <img width="300" height="250" src="https://i.imgur.com/xn266GL.png">
 </p>
-  
+
+## Progress so far
+* Implement pretrained VGG16 and LSTM on top
+* Implement prediction model (frame by frame)
+
+### NEXT TO DO
+* Add optical flow
+* Add velocity vectors
